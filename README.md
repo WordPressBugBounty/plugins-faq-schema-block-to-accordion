@@ -1,0 +1,1 @@
+# plugins-faq-schema-block-to-accordion
